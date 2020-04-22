@@ -1,0 +1,14 @@
+state
+region
+area
+wall
+
+
+state
+region
+area
+crag
+wall
+
+i dont think that the props being passed to route objects are being saved like fields. 
+Write some test code with a simple component to test this.
