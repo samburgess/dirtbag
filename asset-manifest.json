@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dirtbag/static/css/main.cbd6b5bc.chunk.css",
+    "main.js": "/dirtbag/static/js/main.1e1c27a1.chunk.js",
+    "main.js.map": "/dirtbag/static/js/main.1e1c27a1.chunk.js.map",
+    "runtime-main.js": "/dirtbag/static/js/runtime-main.4184b9a9.js",
+    "runtime-main.js.map": "/dirtbag/static/js/runtime-main.4184b9a9.js.map",
+    "static/js/2.4aa926e0.chunk.js": "/dirtbag/static/js/2.4aa926e0.chunk.js",
+    "static/js/2.4aa926e0.chunk.js.map": "/dirtbag/static/js/2.4aa926e0.chunk.js.map",
+    "index.html": "/dirtbag/index.html",
+    "precache-manifest.a84df69a18e0d58af1ca9301fec7fd7e.js": "/dirtbag/precache-manifest.a84df69a18e0d58af1ca9301fec7fd7e.js",
+    "service-worker.js": "/dirtbag/service-worker.js",
+    "static/css/main.cbd6b5bc.chunk.css.map": "/dirtbag/static/css/main.cbd6b5bc.chunk.css.map",
+    "static/js/2.4aa926e0.chunk.js.LICENSE.txt": "/dirtbag/static/js/2.4aa926e0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dirtbag/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4184b9a9.js",
+    "static/js/2.4aa926e0.chunk.js",
+    "static/css/main.cbd6b5bc.chunk.css",
+    "static/js/main.1e1c27a1.chunk.js"
+  ]
+}
